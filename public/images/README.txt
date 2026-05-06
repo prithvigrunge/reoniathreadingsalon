@@ -1,0 +1,1 @@
+Drop your final image files here using the exact filenames: hero.jpg, threading.jpg, haircut.jpg, waxing.jpg, facials.jpg, about.jpg, logo.png. Until then, components will fall back to Unsplash URLs automatically.
